@@ -9,7 +9,9 @@ The application allows users to browse products, add them to cart, and complete 
 👉 https://superkneewebsite.vercel.app/
 
 screenshots
-![Alt Text]()
+![Alt Text](https://github.com/kranthi7581/super_knee/blob/main/GIF_home.png)
+![Alt Text](https://github.com/kranthi7581/super_knee/blob/main/shope.png)
+![Alt Text](https://github.com/kranthi7581/super_knee/blob/main/cart.png)
 
 📌 Features
 🛍️ Browse products with a clean UI
@@ -21,12 +23,14 @@ screenshots
 🌐 RESTful APIs for backend communication
 🧪 API testing using Postman
 🧑‍💻 Tech Stack
-Frontend
+
+##Frontend
 React.js
 Material UI
 JavaScript (ES6+)
 CSS
-Backend
+
+##Backend
 Node.js
 Express.js
 Database
@@ -35,6 +39,7 @@ Tools & Testing
 Postman
 Git & GitHub
 Vercel (Deployment)
+
 ⚙️ How It Works
 User visits the website
 Browses available products
@@ -42,15 +47,15 @@ Clicks on a product → Adds to cart
 Tries to proceed → Redirected to login
 After login → User details are collected
 Order is processed for delivery
+
 📂 Project Structure
 super_knee/
 │
 ├── frontend/        # React + Material UI
 ├── backend/         # Node.js + Express APIs
-├── models/          # MongoDB schemas
-├── routes/          # API routes
-├── controllers/     # Business logic
+├── screenshots     # Business logic
 └── README.md
+
 🔧 Installation & Setup
 1️⃣ Clone the repository
 git clone https://github.com/kranthi7581/super_knee.git
@@ -63,6 +68,7 @@ npm start
 cd frontend
 npm install
 npm start
+
 🔑 Environment Variables
 
 Create a .env file in the backend folder and add:
@@ -70,9 +76,12 @@ Create a .env file in the backend folder and add:
 MONGO_URI=your_mongodb_atlas_connection_string
 PORT=5000
 JWT_SECRET=your_secret_key
+
+
 📸 API Testing
 All backend APIs are tested using Postman
 Includes authentication, cart, and product APIs
+
 🎯 Key Highlights
 Real-world B2C flow implementation
 Authentication before checkout
