@@ -10,7 +10,7 @@ The application allows users to browse products, add them to cart, and complete 
 
 screenshots
 ![Alt Text](https://github.com/kranthi7581/super_knee/blob/main/GIF_home.png)
-![Alt Text](https://github.com/kranthi7581/super_knee/blob/main/shope.png)
+![Alt Text](https://github.com/kranthi7581/super_knee/blob/main/shop.png)
 ![Alt Text](https://github.com/kranthi7581/super_knee/blob/main/cart.png)
 
 📌 Features
